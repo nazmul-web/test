@@ -1,0 +1,22 @@
+#nav{
+    background-color: var(--primary);
+    padding: 20px 0;
+}
+.nav__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__logo__img{
+    color: var(--white);
+}
+.nav__menu__wrapper{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.nav__link{
+    color: var(--white);
+    font-size: var(--perafont);
+    text-transform: var(--capital);
+}

@@ -1,0 +1,26 @@
+
+#banner{
+    padding: 200px 0;
+    background-color: var(--black);
+}
+.banner__wrapper{
+    text-align: center;
+}
+.banner__heading{
+    font-size: 75px;
+    font-weight: var(--bold);
+    color: var(--white);
+    text-transform: var(--uppercase);
+    padding-bottom: 30px;
+}
+.banner__pera{
+    font-size: var(--perafont);
+    color: var(--white);
+    padding-bottom: var(--perafont);
+}
+.banner__btn{
+    background-color: var(--primary);
+    padding: 15px 30px;
+    color: var(--white);
+    border: none;
+}

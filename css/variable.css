@@ -1,0 +1,16 @@
+:root{
+    --primary: blueviolet;
+    --white: #fff;
+    --black: #000;
+
+    --perafont: 18px;
+
+    --capital: capitalize;
+    --uppercase: uppercase;
+
+    --light: 300;
+    --regular: 400;
+    --medium: 500;
+    --semibold: 600;
+    --bold: 700;
+}
